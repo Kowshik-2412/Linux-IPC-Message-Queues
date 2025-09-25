@@ -1,7 +1,7 @@
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
-## NAame :Kowshik P
-## Reg. No : 212224040164
+### Name :Kowshik P
+### Reg. No : 212224040164
 
 # AIM:
 To write a C program that receives a message from message queue and display them
